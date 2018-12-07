@@ -7,7 +7,7 @@ for i in range(n):
     l=input()
     p=set(l[:])
     g.append(p)
-    if len(p)!=1:
+    if len(p)!=1: #lkjkk
         print("NO")
         d=1
         break
