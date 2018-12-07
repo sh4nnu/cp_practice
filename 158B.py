@@ -6,7 +6,7 @@ two=l.count(2)
 one=l.count(1)
 p=abs(one-three)
 if three>=one:
-    print(four+one+(three-one)+(two//2)+(two%2))
+    print(four+one+(three-one)+(two//2)+(two%2)) #ugyugyj,gjhgm
 else:
     if p//2>=two:
         print(four+three+two+(((p)-two)//4)+(((p)-two)%4))
