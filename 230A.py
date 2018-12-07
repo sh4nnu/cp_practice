@@ -1,6 +1,6 @@
 s,n=map(int,input().split())
 l=[]
-for i in range(n):
+for i in range(n): #nydhb
     l.append(list(map(int,input().split())))
 l.sort()
 for i,j in l:
