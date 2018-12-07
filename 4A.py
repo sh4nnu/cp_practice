@@ -1,6 +1,6 @@
 n=int(input())
 if n%2!=0 or n==2:
-    print("NO")
+    print("NO") #gtrtgrht
 else:
     print("YES")
     
