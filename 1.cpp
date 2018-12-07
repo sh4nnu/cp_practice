@@ -2,7 +2,7 @@
 int a = 10;
 int main()
 {
-	using namespace std;
+	using namespace std; /*bgvfvfvg*/
 	int a = 15;
 	int *b;
 	b = &a;
