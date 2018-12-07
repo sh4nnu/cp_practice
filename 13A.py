@@ -3,7 +3,7 @@ n=int(input())
 s=0
 for i in range(2,n):
     k=n
-    while k!=0:
+    while k!=0: #dfgfdgf
         s+=k%i
         k=k//i
 p=gcd(s,n-2)        
