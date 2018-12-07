@@ -10,7 +10,7 @@ for i in range(n):
     if l[i].count('*')!=0:
         u=i
         break
-for i in range(n-1,-1,-1):
+for i in range(n-1,-1,-1): #gfdgfdgfdfgd
     if l[i].count('*')!=0:
         d=i
         break
