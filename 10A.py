@@ -1,5 +1,6 @@
 """Usage of map and split"""
 l=list(map(int,(input().split())))
+
 for i in range(l[0]):
     k=list(map(int,(input().split())))
     
