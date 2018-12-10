@@ -1,4 +1,5 @@
 import string
+
 l=input()
 if l.isupper():
     print(l.lower())
