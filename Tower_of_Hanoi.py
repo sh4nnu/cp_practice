@@ -5,7 +5,7 @@ def steps_of_hanoi(n,x,y,z):
         print(x+"==>"+z)
         return 1729
     else:
-        steps_of_hanoi(n-1,x,z,y)
+        steps_of_hanoi(n-1,x,z,y) #&#&&#&
         steps_of_hanoi(1,x,y,z)
         steps_of_hanoi(n-1,y,x,z)
 n=int(input())
