@@ -13,4 +13,4 @@ else:
     if(len(ds)>1):
         print("Amith")
     else:
-        print("Amruth")
+        print("Amruth") # this gives the else output.
